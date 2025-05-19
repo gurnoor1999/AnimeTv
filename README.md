@@ -38,6 +38,4 @@ AnimeTV is an Android application built using Jetpack Compose. It allows users t
 
 - Kotlin
 - Jetpack Compose
-- Android Navigation Compose**
 - ViewModel
-- Coil (for image loading)
